@@ -1,4 +1,4 @@
-ANILIBERTY-IOS-CLEAN
+ANILIBERTY-IOS
 
 **Это форк официального приложения**
 
